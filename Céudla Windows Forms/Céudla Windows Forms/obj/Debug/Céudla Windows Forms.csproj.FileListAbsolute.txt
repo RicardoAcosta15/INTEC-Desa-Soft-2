@@ -1,0 +1,11 @@
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\bin\Debug\Céudla Windows Forms.exe.config
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\bin\Debug\Céudla Windows Forms.exe
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\bin\Debug\Céudla Windows Forms.pdb
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla Windows Forms.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla Windows Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla_Windows_Forms.Form1.resources
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla_Windows_Forms.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla Windows Forms.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla Windows Forms.exe
+C:\Users\Ricardo\source\repos\Céudla Windows Forms\Céudla Windows Forms\obj\Debug\Céudla Windows Forms.pdb

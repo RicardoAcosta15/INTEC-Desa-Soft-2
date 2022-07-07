@@ -1,0 +1,14 @@
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD_Cédulas.Form1.resources
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD_Cédulas.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\bin\Debug\CRUD Cédulas.exe.config
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\bin\Debug\CRUD Cédulas.exe
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\bin\Debug\CRUD Cédulas.pdb
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.exe
+C:\Users\Ricardo\source\repos\CRUD Cédulas\CRUD Cédulas\obj\Debug\CRUD Cédulas.pdb

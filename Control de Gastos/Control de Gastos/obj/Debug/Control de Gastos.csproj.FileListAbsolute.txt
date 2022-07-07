@@ -1,0 +1,16 @@
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.exe.config
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.exe
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.pdb
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form1.resources
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.exe
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.pdb
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.ConceptForm.resources
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.CategoryForm.resources
